@@ -4,12 +4,30 @@
 
 **The privacy-first, swipe-based movie discovery engine with seamless manual Radarr integration.**
 
+<br />
+
+<a href="https://discovarr.brandez.online">
+  <img src="https://img.shields.io/badge/🍿_Launch_Discovarr-discovarr.brandez.online-8a2be2?style=for-the-badge&logoColor=white" alt="Launch Discovarr" height="42" />
+</a>
+
+<br /><br />
+
+[![Open Web App](https://img.shields.io/badge/Live_App-discovarr.brandez.online-6366f1.svg)](https://discovarr.brandez.online)
 [![Local First](https://img.shields.io/badge/Architecture-Local--First-8a2be2.svg)](#-local-first--privacy-architecture)
 [![Zero Tracking](https://img.shields.io/badge/Privacy-100%25%20Client--Side-brightgreen.svg)](#-local-first--privacy-architecture)
 [![Radarr Compatible](https://img.shields.io/badge/Integration-Radarr%20v3%20%2F%20v4%20%2F%20v5-orange.svg)](#-radarr-integration-guide)
-[![Platform](https://img.shields.io/badge/Web-Mobile%20%26%20Desktop-blue.svg)](#)
 
 </div>
+
+---
+
+## 🚀 Live Web App
+
+Discovarr is available instantly in your web browser with zero installation:
+
+👉 **[https://discovarr.brandez.online](https://discovarr.brandez.online)**
+
+*(Alternative mirror: [https://onemovie.brandez.online](https://onemovie.brandez.online))*
 
 ---
 
