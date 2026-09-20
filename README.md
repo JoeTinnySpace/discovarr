@@ -27,8 +27,6 @@ Discovarr is available instantly in your web browser with zero installation:
 
 👉 **[https://discovarr.brandez.online](https://discovarr.brandez.online)**
 
-*(Alternative mirror: [https://onemovie.brandez.online](https://onemovie.brandez.online))*
-
 ---
 
 ## 💡 What is Discovarr?
